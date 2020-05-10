@@ -1,0 +1,21 @@
+*
+{margin: 0; padding: 0;}
+
+.welcome{
+    position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    color: #fff; 
+    top: 150;
+}
+
+.welcome h1{
+    font-size: 42px;
+    margin: 25px;
+}
+
+.logo
+{
+margin: 300xp 350px;
+height: 350px;
+}
